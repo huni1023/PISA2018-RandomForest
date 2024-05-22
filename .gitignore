@@ -1,0 +1,14 @@
+.
+*.xlsx
+*.png
+!sample_result.png
+!codebook(sample).xlsx
+*.jpg
+.RData
+.Rhistory
+*.sav
+*.spv
+*.zip
+*.pkl
+*.log
+*.pyc
